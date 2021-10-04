@@ -1,0 +1,40 @@
+@import '../../global.scss';
+
+main {
+    width: 100vw;
+    height: 100vh;
+    background: $blue;
+}
+
+#sct-game {
+    padding: 0;
+    margin: 0;
+    align-items: center;
+    //border: solid 2px red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.side {
+    border: solid 2px olivedrab;
+    height: 100vh;    
+}
+
+.game-display {
+    width: 60vw;
+}
+
+.pokemon-display {
+    width: 40vw;
+}
+
+.game-keyboard {
+    color: $white;
+    font-size: 1.5rem;
+    width: 200px;
+
+    span:not(:last-child) {
+        margin-right: 1rem;
+    }
+}
