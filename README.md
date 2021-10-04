@@ -1,6 +1,6 @@
 # O que é esse projeto?
 
-Esse é o primeiro desafio proposto pela comunidade Dev Girls Mentor. É um jogo
+Esse é o primeiro desafio proposto pela comunidade Dev Girls Mentor.
 
 ## Quem é esse Pokémon?
 
