@@ -3,8 +3,11 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Potta One', sans-serif;
+    box-sizing: border-box;
+    font-family: 'Potta One', cursive, sans-serif;
 }
+
+//variables
 
 $blue: #3E5CA2;
 $blue-dark: #041258;
