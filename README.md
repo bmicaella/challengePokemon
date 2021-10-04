@@ -5,3 +5,4 @@ Esse é o primeiro desafio proposto pela comunidade Dev Girls Mentor.
 ## Quem é esse Pokémon?
 
 Um jogo do estilo forca no qual o usuário deve adivinhar qual é o Pokémon pela sombra do mesmo. 
+
